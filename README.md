@@ -1,5 +1,5 @@
 Flat Icon Theme (c) by Kamil Nęcek <http://www.pixelsource.pl>
-<br> 
+<br>
 Flat Icon Theme is licensed under a
 Creative Commons Attribution 4.0 International License.
 <br>
