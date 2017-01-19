@@ -6,7 +6,6 @@ viewBox="0 0 6400000 6400000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <g id="Warstwa_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <line fill="none" stroke="#43A047" stroke-width="399926" x1="5252072" y1="3200000" x2="1148046" y2= "3200000" />
-  <line fill="none" stroke="#43A047" stroke-width="399926" x1="3200000" y1="5251954" x2="3200000" y2= "1147928" />
+  <polygon fill="#43A047" fill-rule="nonzero" points="5252072,3399963 3399963,3399963 3399963,5251954 3000037,5251954 3000037,3399963 1148046,3399963 1148046,3000037 3000037,3000037 3000037,1147928 3399963,1147928 3399963,3000037 5252072,3000037 "/>
  </g>
 </svg>
