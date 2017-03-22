@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Creator: CorelDRAW X8 -->
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64px" height="64px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
 viewBox="0 0 6400000 6400000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
- <g id="Warstwa_x0020_1">
-  <metadata id="CorelCorpID_0Corel-Layer"/>
-  <path fill="{color}" d="M-118 2420109l2352549 0 849813 -2459440 845562 2460266 2352194 -3661 -2044868 1510648 690599 2432865 -1845731 -1613170 -1845731 1613170 637330 -2432865 -1991717 -1507813zm2352549 358705l-1287418 0 1329702 1006666 -420832 1606201 1226117 -1116038 1209582 994146 -404297 -1476632 1286119 -1012690 -1550689 3307 -540715 -1661949 -597291 1656989 -250278 0z"/>
+ <g id="Warstwa">
+   <path fill="{color}" d="M399926 2512708l2058451 0 743631 -2151995 739852 2152704 2058096 -3189 -1789274 1321788 604259 2128727 -1614941 -1411553 -1614941 1411553 557605 -2128727 -1742738 -1319308zm2058451 313941l-1126431 0 1163400 880759 -368154 1405411 1072808 -976548 1058399 869893 -353745 -1292142 1125250 -886074 -1356749 2953 -473155 -1454191 -522644 1449939 -218979 0z"/>
  </g>
 </svg>

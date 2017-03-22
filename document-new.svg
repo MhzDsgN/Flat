@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Creator: CorelDRAW X8 -->
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64px" height="64px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
 viewBox="0 0 6400000 6400000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
- <g id="Warstwa_x0020_1">
-  <metadata id="CorelCorpID_0Corel-Layer"/>
-  <polygon fill="#388E3C" fill-rule="nonzero" points="6400709,1740376 5166914,1740376 5166914,2974170 4635766,2974170 4635766,1740376 3426420,1740376 3426420,1209227 4635766,1209227 4635766,-118 5166914,-118 5166914,1209227 6400709,1209227 "/>
-  <polygon fill="{color}" fill-rule="nonzero" points="3200000,-118 0,-118 0,4478913 1672107,6400118 6400000,6400118 6400000,3200000 6064327,3200000 6064327,6062909 2076167,6062909 2076167,4230052 335673,4232769 335673,337091 3200000,337091 "/>
+ <g id="Warstwa">  
+  <polygon fill="#43A047" fill-rule="nonzero" points="6000310,1922976 4920887,1922976 4920887,3002399 4456236,3002399 4456236,1922976 3398191,1922976 3398191,1458325 4456236,1458325 4456236,400162 4920887,400162 4920887,1458325 6000310,1458325 "/>
+  <polygon fill="{color}" fill-rule="nonzero" points="3200000,400162 400399,400162 400399,4318990 1863330,5999838 5999719,5999838 5999719,3200000 5706094,3200000 5706094,5704795 2216838,5704795 2216838,4101192 694024,4103554 694024,695205 3200000,695205 "/>
  </g>
 </svg>

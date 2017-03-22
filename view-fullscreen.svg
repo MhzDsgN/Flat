@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Creator: CorelDRAW X8 -->
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64px" height="64px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
 viewBox="0 0 6400000 6400000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
- <g id="Warstwa_x0020_1">
-  <metadata id="CorelCorpID_0Corel-Layer"/>
-  <path fill="{color}" d="M6400118 2312154l0 -2312154 -2335068 0 0 418824 1601949 0 -2248847 2252390 315949 310634 2242350 -2245776 0 1576082 423667 0zm-6400118 1776046l0 2311918 2335186 0 0 -418706 -1601949 0 2248847 -2252272 -316185 -310751 -2242232 2245421 0 -1575610 -423667 0z"/>
+ <g id="Warstwa">
+  <path fill="{color}" d="M6000074 2423061l0 -2023017 -2043096 0 0 366501 1401631 0 -1967741 1970812 276500 271775 1961953 -1965025 0 1378954 370753 0zm-5600030 1554114l0 2022899 2043214 0 0 -366265 -1401631 0 1967741 -1970811 -276736 -271893 -1961953 1964670 0 -1378600 -370635 0z"/>
  </g>
 </svg>
