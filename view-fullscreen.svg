@@ -3,7 +3,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64px" height="64px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
 viewBox="0 0 6400000 6400000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
- <g id="Warstwa">
-  <path fill="{color}" d="M6000074 2423061l0 -2023017 -2043096 0 0 366501 1401631 0 -1967741 1970812 276500 271775 1961953 -1965025 0 1378954 370753 0zm-5600030 1554114l0 2022899 2043214 0 0 -366265 -1401631 0 1967741 -1970811 -276736 -271893 -1961953 1964670 0 -1378600 -370635 0z"/>
+ <g id="Warstwa_1">   
+  <path fill="{color}" d="M6000074 2398140l0 -1998096 -2002348 0 0 399926 1327458 0 -1934316 1937387 276500 271775 1933016 -1935969 0 1324977 399690 0zm-5600030 1603838l0 1998096 1999631 0 -472 -400163 -1323796 0 1933961 -1936913 -276736 -271893 -1932543 1935260 0 -1324150 -400045 -237z"/>
  </g>
 </svg>

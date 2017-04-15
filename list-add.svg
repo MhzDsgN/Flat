@@ -3,7 +3,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64px" height="64px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
 viewBox="0 0 6400000 6400000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
- <g id="Warstwa">
-   <polygon fill="{color}" fill-rule="nonzero" points="5252072,3399963 3399963,3399963 3399963,5251954 3000037,5251954 3000037,3399963 1148046,3399963 1148046,3000037 3000037,3000037 3000037,1147928 3399963,1147928 3399963,3000037 5252072,3000037 "/>
+ <g id="Warstwa_1">   
+  <polygon fill="{color}" fill-rule="nonzero" points="3399963,999934 3399963,3000037 5400066,3000037 5400066,3399963 3399963,3399963 3399963,5400066 3000037,5400066 3000037,3399963 999934,3399963 999934,3000037 3000037,3000037 3000037,999934 "/>
  </g>
 </svg>

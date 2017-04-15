@@ -3,7 +3,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64px" height="64px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
 viewBox="0 0 6400000 6400000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
- <g id="Warstwa">
-   <polygon fill="{color}" fill-rule="nonzero" points="1147928,3022832 5252072,3022832 5252072,3377168 1147928,3377168 "/>
+ <g id="Warstwa_1">   
+  <path fill="{color}" fill-rule="nonzero" d="M5400066 3000037l0 399926c-1466711,0 -2933421,0 -4400132,0l0 -399926c1466711,0 2933421,0 4400132,0z"/>
  </g>
 </svg>

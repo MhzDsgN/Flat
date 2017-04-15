@@ -3,8 +3,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64px" height="64px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
 viewBox="0 0 6400000 6400000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
- <g id="Warstwa">
-   <polygon fill="{color}" points="399926,399926 6000074,399926 6000074,6000074 399926,6000074 "/>
-   <polygon fill="#FFFFFF" points="3526224,3373034 4045325,3888119 4625726,4468520 4464740,4629388 3885048,4049695 3368663,3529768 3321773,3620123 2770664,4584151 1704706,1704706 4584151,2770664 3619178,3320710 "/>
+ <g id="Warstwa_1">   
+  <polygon fill="{color}" points="399926,399926 6000074,399926 6000074,6000074 399926,6000074 "/>
+  <polygon fill="#FFFFFF" points="3327088,3609848 3321773,3620123 2770664,4584151 1704706,1704706 4584151,2770664 3619178,3320710 3609139,3326380 4741358,4458598 4458598,4741358 "/>
  </g>
 </svg>
