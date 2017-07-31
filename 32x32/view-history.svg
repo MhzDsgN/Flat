@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="view-history" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path fill="{color}" d="M22,12l3.4-3.4C23.2,5.8,19.8,4,16,4C9.4,4,4,9.4,4,16s5.4,12,12,12c5.2,0,9.7-3.4,11.3-8h2.1c-1.7,5.8-7.1,10-13.4,10
+	C8.3,30,2,23.7,2,16S8.3,2,16,2c4.4,0,8.3,2,10.8,5.2L30,4v8H22z M20.7,21.2L17,17.6V8h-2v10.4l4.2,4.2L20.7,21.2z"/>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64px" height="64px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 6400000 6400000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Warstwa_1">
+   <path fill="{color}" d="M799970 3200000l0 600125 700048 0 198074 0 120592 160869 881467 1175211 0 -3872410 -881467 1175211 -120592 160869 -198074 0 -700402 0 -1181 600125 1535 0zm-399926 0l0 1000052 1099974 0 1200015 1599941 400045 0 0 -5202938 -400045 2952 -1200015 1599941 -1097966 0 -2008 1000052zm5600030 -902610l-902610 902610 902610 902728 -297287 297287 -902728 -902728 -902728 902728 -297287 -297287 902846 -902728 -902728 -902728 297288 -297287 902727 902728 902610 -902610 297287 297287z"/>
+ </g>
+</svg>

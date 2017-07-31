@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="configure-toolbars" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path fill="{color}" d="M30,7v4.4L27,15h-6.5l-15,15H3.6L2,28.4v-1.8l15-15.1l0-5.9L20.5,2l4.4,0l-3.6,3.6L22,10l4.5,0.7L30,7z M16,22h14v8H16V22z
+	 M25,24v4h3v-4H25z M23,28v-4h-2v4H23z M19,28v-4h-1v4H19z"/>
+</svg>

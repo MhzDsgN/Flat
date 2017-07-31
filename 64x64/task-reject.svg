@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64px" height="64px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 6400000 6400000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Warstwa_1">   
+  <polygon fill="#D32F2F" points="399926,399926 6000074,399926 6000074,6000074 399926,6000074 "/>
+  <polygon fill="#FFFFFF" fill-rule="nonzero" points="4897029,1785731 3482759,3200000 4897029,4614269 4614269,4897029 3200000,3482759 1785731,4897029 1502971,4614269 2917241,3200000 1502971,1785731 1785731,1502971 3200000,2917241 4614269,1502971 "/>
+ </g>
+</svg>

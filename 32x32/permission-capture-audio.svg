@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="permission-capture-audio" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path fill="{color}" d="M30,30H2V2h28V30z"/>
+<path fill="#FFFFFF" d="M28,17H17v-2h11V17z M27.4,7.1L17,10.4l0.6,1.9L28,9L27.4,7.1z M28,23l-10.4-3.4L17,21.4l10.4,3.4L28,23z
+	 M13,8.2v15.7l-3.3-4.9L9.1,18H8H6v-4h2h1.1l0.6-0.9L13,8.2 M13.4,4L8,12H4v8h4l5.4,8H15V4L13.4,4L13.4,4z"/>
+</svg>

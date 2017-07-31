@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="edit-select-all" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path fill="{color}" d="M2,2h4v2H4v1H2V2z M19,15h5v2h-5V15z M7,21h17v2H7V21z M7,15h5v2H7V15z M7,9h17v2H7V9z M28,18v-4h2v4H28z M28,12V7h2v5H28z
+	 M28,25v-5h2v5H28z M2,18v-4h2v4H2z M2,12V7h2v5H2z M2,25v-5h2v5H2z M14,30h4v-2h-4V30z M20,30h4v-2h-4V30z M8,30h4v-2H8V30z M30,30
+	h-4v-2h2v-1h2V30z M2,30h4v-2H4v-1H2V30z M14,2h4v2h-4V2z M20,2h4v2h-4V2z M8,2h4v2H8V2z M30,2h-4v2h2v1h2V2z"/>
+</svg>

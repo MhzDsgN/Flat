@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="document-print" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path fill="{color}" d="M6,2h20v6h4v16l-4,0v2l-4,4H6v-6H2V8h4V2z M24,24L24,24l0-6H8l0,10h13.2l2.8-2.8V24z M6,16h20v6h2V10H4v12h2L6,16z M8,8
+	l16,0l0-4L8,4L8,8z M24,14h2v-2h-2V14z"/>
+</svg>

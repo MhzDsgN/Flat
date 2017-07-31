@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64px" height="64px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 6400000 6400000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Warstwa_1">
+  <polygon fill="#FFA726" points="400044,400044 5999956,400044 5999956,5999956 400044,5999956 "/>
+  <path fill="#FFFFFF" d="M2100026 3800007c276145,0 499967,223822 499967,499967 0,276145 -223822,499967 -499967,499967 -276145,0 -499967,-223822 -499967,-499967 0,-276145 223822,-499967 499967,-499967zm-494061 -2200066c1767541,0 3200118,1432577 3200118,3200118l-399926 0c0,-773277 -313351,-1473443 -820050,-1980142 -506699,-506700 -1206865,-820050 -1980142,-820050l-6024 0 0 -399808 6024 -118zm118 1199897c1104698,0 2000103,895404 2000103,2000103l0 118 -399926 0 0 -118c0,-442919 -178585,-843081 -467132,-1131510l-1535 -1535c-288429,-288547 -688591,-467132 -1131510,-467132l-6142 0 0 -399808 6142 -118z"/>
+ </g>
+</svg>

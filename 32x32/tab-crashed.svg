@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="tab-crashed" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path fill="#D32F2F" d="M24,18C24,18,24,18,24,18c-3.3,0-6,2.7-6,6c0,3.3,2.7,6,6,6c0,0,0,0,0,0c3.3,0,6-2.7,6-6
+	C30,20.7,27.3,18,24,18z M24,28.3c-2.3,0-4.3-1.9-4.3-4.3c0-0.9,0.3-1.7,0.7-2.4l5.9,5.9C25.7,28,24.9,28.3,24,28.3z M27.6,26.3
+	l-5.9-5.9c0.7-0.4,1.5-0.7,2.3-0.7h0c2.3,0,4.3,1.9,4.3,4.3C28.3,24.9,28,25.7,27.6,26.3z"/>
+<path fill="{color}" d="M2,2l9.9,0l0,4H14V2L28,2v4l2,0v10h-2V8L10,8l0-4L4,4v24l12,0v2L2,30L2,2z"/>
+</svg>

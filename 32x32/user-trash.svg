@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="user-trash" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path fill="{color}" d="M21,6V2H11v4H2v2c0.9,0,1.9,0,2.8,0H5l3,22h16l3-22h0.2c0.9,0,1.9,0,2.8,0V6H21z M13,4h6v2h-6V4z M25,8l-3,20H10L7,8H25z
+	 M15,23h-2V12h2V23z M19,23h-2V12h2V23z"/>
+</svg>

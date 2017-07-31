@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny" id="Warstwa_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16"
+	 overflow="scroll" xml:space="preserve">
+<g>
+	<path d="M1.4,8c0-3.6,2.9-6.6,6.6-6.6V0.5C3.9,0.5,0.5,3.9,0.5,8s3.4,7.5,7.5,7.5v-0.9C4.4,14.6,1.4,11.6,1.4,8z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="11.682" y1="15.5" x2="11.682" y2="8">
+		<stop  offset="0.1231" style="stop-color:#000000"/>		
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M15.5,8h-0.9c0,3.6-2.9,6.6-6.6,6.6H7.9l0,0.9l0.1,0C12.1,15.5,15.5,12.1,15.5,8z"/>
+	<animateTransform attributeType="xml"
+                    attributeName="transform"
+                    type="rotate"
+                    from="0 8 8"
+                    to="360 8 8"
+                    dur="3s"
+                    repeatCount="indefinite"/>
+</g>
+</svg>
