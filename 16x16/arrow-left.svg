@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.2" baseProfile="tiny" id="arrow-left"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16"
 	 overflow="scroll" xml:space="preserve">
-<polygon points="8.2,2.8 3.9,7 14,7 14,8 3.9,8 8.2,12.3 7.5,13 2,7.5 7.5,2.1 "/>
+<polygon fill="{color}" points="8.2,2.8 3.9,7 14,7 14,8 3.9,8 8.2,12.3 7.5,13 2,7.5 7.5,2.1 "/>
 </svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny" id="configure-shortcuts"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16"
+	 overflow="scroll" xml:space="preserve">
+<path fill="{color}" d="M15,2.9l0,2.5L13.6,7h-3l-8,8H1.7L1,14.3v-0.8l8-8l0-2.7L10.6,1l2.5,0L11,2.7l0.3,2L13.4,5L15,2.9z"/>
+<path fill="{color}" d="M14,9v5h-4v-2l1,0l1,0v-1V9H14 M15,8h-4v3l-2,0v4h6V8L15,8z"/>
+</svg>
