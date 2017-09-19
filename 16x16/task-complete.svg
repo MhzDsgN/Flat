@@ -3,5 +3,6 @@
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16"
 	 overflow="scroll" xml:space="preserve">
 <path fill="#43A047" d="M1,1h14v14H1V1z"/>
-<polygon fill="#FFFFFF" points="7.6,13 3,8.7 3.7,8 7.4,11.3 12.1,3.1 13,3.5 "/>
+<path fill="#FFFFFF" d="M7.5908203,11.9814339L3.0125918,7.7602425l0.7109375-0.703125l3.6436582,3.277832l4.7563419-6.3163834
+	l0.8730469,0.4882813L7.5908203,11.9814339z"/>
 </svg>
