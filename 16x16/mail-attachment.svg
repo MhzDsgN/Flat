@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny" id="unknown" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 16 16" overflow="auto" xml:space="preserve">
+	 
+	 <path fill="{color}" d="M2,12V5L8,8l6-3V8h1V3H1V13H6V12ZM14,4,8,7,2,4Z"/><path d="M14,12V10H13V9h2v4H10V11h1v1ZM7,9v4H9V12H8V10h3v1h1V9H7Z"/></svg>

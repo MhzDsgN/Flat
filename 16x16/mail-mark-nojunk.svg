@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny" id="Warstwa_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16"
+	 xml:space="preserve">
+<path fill="{color}" d="M2,12V5l6,3l6-3v2h1V3H1v10h8v-1H2z M14,4L8,7L2,4H14z"/>
+<path fill="#D32F2F" d="M10,9l1-1l1.5,1.5L14,8c0,0,0.4,0.5,1,1l-1.5,1.5L15,12l-1,1l-1.5-1.5L11,13l-1-1l1.5-1.5L10,9z"/>
+</svg>
