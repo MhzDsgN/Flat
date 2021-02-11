@@ -1,4 +1,4 @@
-Flat Icon Theme (c) by Kamil Nęcek <http://www.pixelsource.pl>
+Flat Icon Theme (c) by Kamil Nęcek <https://kamilnecek.pl/>
 <br>
 Flat Icon Theme is licensed under a
 Creative Commons Attribution 4.0 International License.
